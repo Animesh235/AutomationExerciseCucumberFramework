@@ -1,2 +1,2 @@
 # AutomationExerciseCucumberFramework
-![code_20250214_182454_via_10015_io](https://github.com/user-attachments/assets/be314ac8-6d11-4a90-9ab1-8da2643225a6)
+![code_20250214_182622_via_10015_io](https://github.com/user-attachments/assets/1478b173-3834-4c13-b82c-6d9a17d4b5cc)
